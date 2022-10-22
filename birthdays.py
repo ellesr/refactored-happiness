@@ -31,7 +31,7 @@ def main():
             delete(birthdays)
 
 # The get_menu_choice function displays the menu
-# and gets a validated choice from teh user.
+# and gets a validated choice from the user.
 def get_menu_choice():
     print()
     print('Friends and Their Birthdays')
